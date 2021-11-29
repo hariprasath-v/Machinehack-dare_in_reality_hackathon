@@ -1,7 +1,5 @@
 # Machinehack-dare_in_reality_hackathon
 
-Predicting epitope regions is beneficial for the design and development of vaccines aimed to induce antigen-specific antibody production.
-
 ### Competition hosted on <a href="https://machinehack.com/hackathons/dare_in_reality_hackathon/overview"> MACHINEHACK </a>
 
 # About
