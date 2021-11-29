@@ -6,7 +6,7 @@
 
 ### Build a machine learning model that predicts the Envision Racing drivers’ lap times.
 
-### Competition Public LB Rank: 97   & Private LB Rank: 162
+### Competition Public LB Rank: 97/361   & Private LB Rank: 162/352
 
 ### Evaluation Metric is RMSLE.
 
