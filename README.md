@@ -22,13 +22,15 @@
         * datetime
         * Numpy
         * Matplotlib
+        * gradio
         * Optuna
         * shap
         
      ### Basic Exploratory Data Analysis
      ### Created Catboost regressor model and tune the hyperparameters with the optuna framework.
-     ### Model interpretation with shap
-     ### Model RMSLE is: 0.22159993835783448
+     ### Model interpretation with shap     
+     ### Created Demo Web-App using Gradio library
+     ### Model RMSLE is: 0.22119371161605259
 
 ### Optuna Optimization History
 
@@ -43,5 +45,13 @@
 ### Hyperparameter Importance
 
 ![Alt text](https://github.com/hariprasath-v/Machinehack-dare_in_reality_hackathon/blob/AnalyticsVidhya-ML-DS-Competition/Hyperparameter%20Importance.png)
+
+
+### Demo App Screenshot.
+
+![Alt text](https://github.com/hariprasath-v/Machinehack-dare_in_reality_hackathon/blob/AnalyticsVidhya-ML-DS-Competition/Model%20Demo%20App%20-%20Gradio%20UI.png)
+
+
+
     
 
