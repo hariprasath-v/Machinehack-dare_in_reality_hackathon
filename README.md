@@ -49,11 +49,4 @@
 
 ### Demo App Screenshot.
 
-![Alt text](https://github.com/hariprasath-v/Machinehack-dare_in_reality_hackathon/blob/AnalyticsVidhya-ML-DS-Competition/Model%20Demo%20App%20-%20Gradio%20UI.png)
-
-
-
-    
-
-
-
+![Alt text](https://github.com/hariprasath-v/Machinehack-dare_in_reality_hackathon/blob/AnalyticsVidhya-ML-DS-Competition/Model_Demo_App_%20Gradio_UI.png)
