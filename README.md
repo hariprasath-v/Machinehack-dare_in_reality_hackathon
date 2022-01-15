@@ -34,19 +34,19 @@
 
 ### Optuna Optimization History
 
-![Alt text](https://github.com/hariprasath-v/Machinehack-dare_in_reality_hackathon/blob/AnalyticsVidhya-ML-DS-Competition/Optuna%20Optimization%20Plot.png)
+![Alt text](https://github.com/hariprasath-v/Machinehack-dare_in_reality_hackathon/blob/main/Optuna%20Optimization%20Plot.png)
 
 
 ### Feature Importance     
 
-![Alt text](https://github.com/hariprasath-v/Machinehack-dare_in_reality_hackathon/blob/AnalyticsVidhya-ML-DS-Competition/Feature%20Importance.png)
+![Alt text](https://github.com/hariprasath-v/Machinehack-dare_in_reality_hackathon/blob/main/Feature%20Importance.png)
 
 
 ### Hyperparameter Importance
 
-![Alt text](https://github.com/hariprasath-v/Machinehack-dare_in_reality_hackathon/blob/AnalyticsVidhya-ML-DS-Competition/Hyperparameter%20Importance.png)
+![Alt text](https://github.com/hariprasath-v/Machinehack-dare_in_reality_hackathon/blob/main/Hyperparameter%20Importance.png)
 
 
 ### Demo App Screenshot.
 
-![Alt text](https://github.com/hariprasath-v/Machinehack-dare_in_reality_hackathon/blob/AnalyticsVidhya-ML-DS-Competition/Model_Demo_App_%20Gradio_UI.png)
+![Alt text](https://github.com/hariprasath-v/Machinehack-dare_in_reality_hackathon/blob/main/Model_Demo_App_%20Gradio_UI.png)
